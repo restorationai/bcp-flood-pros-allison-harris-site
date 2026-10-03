@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "FIX Restoration | Restoration Services in American Fork, UT"
-h1: "Restoration Services in American Fork"
-meta_description: "FIX Restoration provides water, fire, mold, and storm damage restoration across American Fork and surrounding areas. Licensed, insured. Call (801) 930-9750."
-primary_keyword: "restoration services american fork"
-secondary_keywords: ["restoration company near me"]
+title: "Water Damage Restoration in American Fork, UT | FIX Restoration"
+h1: "Water Damage Restoration in American Fork, UT"
+meta_description: "FIX Restoration provides water damage restoration in American Fork, UT. Licensed and insured. Call (801) 930-9750 now."
+primary_keyword: "water damage restoration american fork"
+secondary_keywords: ["best restoration company in american fork", "restoration company american fork", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "968c3406a34887c0"
