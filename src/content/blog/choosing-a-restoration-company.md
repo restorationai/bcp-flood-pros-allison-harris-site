@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "How To Choose a Restoration Company in  (Without Getting Burned)"
-h1: "How To Choose a Restoration Company in  (Without Getting Burned)"
+title: "How To Choose a Restoration Company in American Fork (Without Getting Burned)"
+h1: "How To Choose a Restoration Company in American Fork (Without Getting Burned)"
 meta_description: ""
-primary_keyword: "how to choose a restoration company in  without getting burned"
+primary_keyword: "how to choose a restoration company in american fork without getting burned"
 secondary_keywords: ["water damage restoration", "fire damage restoration", "mold remediation"]
 search_intent: "commercial_decision"
 priority: 5.4
@@ -11,7 +11,7 @@ plan_hash: "0cb75dafabbc7aaa"
 generated_at: "2026-09-08T20:47:08.814601+00:00"
 manual_override: false
 internal_links: ["/blog/", "/services/fire-damage-restoration/", "/services/mold-remediation/", "/services/water-damage-restoration/", "/blog/burst-pipe-emergency-checklist/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/does-homeowners-insurance-cover-water-damage/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in  (Without Getting Burned)"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in American Fork (Without Getting Burned)"}]
 faq: [{"question": "Does my homeowner's insurance cover restoration work, or do I have to pay out of pocket?", "answer": "Most standard homeowner's policies cover sudden and accidental losses, a burst pipe, a kitchen fire, storm-driven water intrusion, but typically exclude gradual damage like a slow leak that went unnoticed for months. The distinction matters because a restoration company's documentation needs to match the cause of loss your adjuster is evaluating. Review your policy's exclusions before the adjuster visit, and ask your restoration company how they'll document the loss origin."}, {"question": "Can I choose my own restoration company, or do I have to use the one my insurance company recommends?", "answer": "In most cases you have the right to choose your own contractor, your insurance company can recommend a preferred vendor, but that recommendation is not a requirement. Preferred vendor programs exist partly because they streamline the billing process for the carrier, which isn't necessarily a conflict of interest, but it's worth understanding the relationship. If you have any doubt, check your policy language or ask your state's insurance department."}, {"question": "How do I know if a mold problem is small enough to handle myself or if I need a professional?", "answer": "The EPA's general guidance draws a line around 10 square feet of visible surface mold as a rough threshold for DIY versus professional remediation, but surface area alone doesn't tell the whole story. If the mold is the result of a hidden moisture source, inside a wall cavity, under flooring, in a crawl space, the visible patch is often just the edge of a larger colony. If you can't identify and eliminate the moisture source, the mold will return regardless of how thoroughly the surface is cleaned."}, {"question": "What does the IICRC certification actually mean, and should I only hire certified companies?", "answer": "The IICRC (Institute of Inspection, Cleaning and Restoration Certification) is the primary credentialing body for the restoration industry. Their standards, like the S500 for water damage and the S520 for mold, define drying targets, containment protocols, and documentation practices that the industry and most insurance carriers recognize. Certification means technicians have been trained to those standards and tested on them. It's not a guarantee of quality on any individual job, but it's a meaningful baseline, and a company that can't reference the standard they're working to is worth scrutinizing."}]
 published_at: "2026-08-31"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
