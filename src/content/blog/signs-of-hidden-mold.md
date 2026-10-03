@@ -16,6 +16,7 @@ faq: [{"question": "How do I know if mold is behind my drywall without cutting i
 published_at: "2026-08-26"
 services: ["mold-remediation"]
 rendered: true
+author: "Scott Noland"
 ---
 Mold doesn't always announce itself with a black stain on the ceiling. More often it grows behind drywall, under flooring, inside HVAC ducts, or in crawl spaces, places you'd never think to look until a smell or a symptom makes you start asking questions. If you're reading this because something feels off in your home but you can't point to a visible problem, trust that instinct. Here are seven signs that hidden mold may be the culprit, plus a clear path for what to do about each one.
 

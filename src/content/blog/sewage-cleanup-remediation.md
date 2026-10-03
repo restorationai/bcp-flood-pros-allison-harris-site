@@ -17,6 +17,7 @@ faq: [{"question": "Is sewage backup covered by homeowners insurance in Utah?", 
 published_at: "2026-09-20"
 services: []
 rendered: true
+author: "Scott Noland"
 ---
 **TL;DR:** Sewage backup is a Category 3 biohazard. Don't touch it, don't run fans, and don't try to clean it yourself. A licensed remediation crew needs to extract the waste, remove contaminated materials, apply EPA-registered disinfectants, and verify the space is safe before anyone re-enters. In Orem, UT, most homeowners' policies cover sudden sewage backups if they added a sewer backup rider. Call your insurer, then call a remediation company.
 

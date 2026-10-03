@@ -16,6 +16,7 @@ faq: [{"question": "Does my homeowner's insurance cover restoration work, or do 
 published_at: "2026-08-31"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Scott Noland"
 ---
 Choosing a restoration company after water damage, a fire, or a mold discovery is one of the few purchasing decisions you'll make while your house is still in crisis mode. That combination, urgency plus stress plus unfamiliar territory, is exactly where bad contractors thrive. The short answer: slow down by about ten minutes, ask four or five specific questions before you sign anything, and understand that the company billing your insurance carrier is not automatically working in your interest. The rest of this post gives you the framework to tell the difference.
 

@@ -17,6 +17,7 @@ faq: [{"question": "How quickly does storm damage need to be addressed in Pleasa
 published_at: "2026-09-18"
 services: []
 rendered: true
+author: "Scott Noland"
 ---
 **TL;DR:** After a storm or high-wind event in Pleasant Grove, UT, your first move is to document the damage with photos, call your insurance company to open a claim, and contact a licensed restoration contractor to secure the property. Roof damage, broken windows, and water intrusion need to be addressed within 24-48 hours to prevent secondary damage like mold or structural rot. Most homeowners insurance policies cover sudden storm damage, including wind, hail, and falling trees.
 

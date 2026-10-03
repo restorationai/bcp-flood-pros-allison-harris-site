@@ -17,6 +17,7 @@ faq: [{"question": "What's the difference between fire damage and smoke damage r
 published_at: "2026-09-29"
 services: []
 rendered: true
+author: "Scott Noland"
 ---
 **TL;DR:** Fire & smoke restoration is the process of stabilizing a fire-damaged property, removing soot and smoke odor from every surface, cleaning or storing salvageable contents, and rebuilding what burned. A typical residential fire job runs anywhere from a few days for light smoke damage to several months when structural rebuild is involved. Insurance usually covers it under the dwelling and personal property portions of a homeowners policy, provided the fire is documented properly from day one.
 

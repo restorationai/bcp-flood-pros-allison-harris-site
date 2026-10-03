@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in Utah?", "answ
 published_at: "2026-09-24"
 services: []
 rendered: true
+author: "Scott Noland"
 ---
 **TL;DR:** In Utah, water damage restoration typically costs $1,200 to $8,500 for most residential losses. Small, clean-water jobs (a supply line failure caught quickly) run $1,200 to $3,500. Larger losses involving finished basements, Category 2 or 3 water, or structural materials push into the $4,000 to $8,500 range. Severe losses with subfloor replacement, drywall tear-out across multiple rooms, or mold involvement can exceed $15,000. Every loss is different, and a written scope before work begins is the only number that matters for your specific situation.
 

@@ -16,6 +16,7 @@ faq: [{"question": "How long does it take for mold to grow after a pipe bursts?"
 published_at: "2026-08-24"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Scott Noland"
 ---
 A burst pipe can dump dozens of gallons into your home in the time it takes to find your phone. The moment you suspect one, shut off the main water supply, that single action limits almost all of the damage that follows. Then cut power to any circuits near the water, open a faucet downstream to relieve pressure in the line, and start documenting with your phone camera before you touch anything else. Everything after that is about drying fast and assessing what got wet.
 

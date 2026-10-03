@@ -18,6 +18,7 @@ faq: [{"question": "Can I stay in my home during fire damage restoration?", "ans
 published_at: "2026-09-02"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Scott Noland"
 ---
 A house fire leaves behind more than charred walls. Even after the flames are out, smoke residue is still moving through your home, settling into insulation, soaking into drywall paper, and bonding to every porous surface it touches. The restoration process that follows is methodical and sequenced for a reason: skip a step or rush a phase, and you can end up with odor that returns months later, hidden corrosion on copper pipes and electrical contacts, or contents that looked salvageable but weren't. Here is what actually happens, from the moment the fire department clears the scene to the day you move back in.
 

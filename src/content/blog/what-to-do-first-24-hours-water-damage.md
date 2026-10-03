@@ -18,6 +18,7 @@ faq: [{"question": "How quickly does mold start growing after water damage?", "a
 published_at: "2026-09-05"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Scott Noland"
 ---
 If water is actively spreading across your floor right now, go shut off the main water supply valve first, then come back to this. For most homes in Utah County, that shutoff is near the water meter, often in a utility room, crawl space, or along the front foundation wall. Once the source is stopped, the clock starts on a narrow window where your decisions will determine how much of your home you save and how large your insurance claim grows.
 

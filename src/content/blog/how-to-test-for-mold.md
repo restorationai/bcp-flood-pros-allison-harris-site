@@ -16,6 +16,7 @@ faq: [{"question": "How long does it take to get results from a DIY mold test ki
 published_at: "2026-08-26"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Scott Noland"
 ---
 Testing for mold comes down to a simple decision: a DIY kit from the hardware store, or a professional inspection. The short answer is that DIY kits can confirm mold is *somewhere* in a room, but they rarely tell you what species it is, how much of it exists, or where it's hiding. A professional inspection uses calibrated air sampling, moisture meters, and thermal imaging to answer all three. If you're dealing with a musty smell, a water stain that won't go away, or a family member with unexplained respiratory symptoms, this guide will walk you through both options honestly, so you can decide which one your situation actually calls for.
 

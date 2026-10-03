@@ -16,6 +16,7 @@ faq: [{"question": "What if my insurance company denies my water damage claim?",
 published_at: "2026-08-22"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Scott Noland"
 ---
 Whether your homeowners insurance covers water damage depends almost entirely on *how* the water got in. The short answer: sudden, accidental water damage is usually covered. Gradual leaks, flooding from outside, and damage you could have prevented are usually not. That single distinction, sudden vs. gradual, internal vs. external, drives almost every coverage decision an adjuster will make. Understanding it before you file a claim (or before you call a plumber) can save you thousands of dollars and a lot of frustration.
 

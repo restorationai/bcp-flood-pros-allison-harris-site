@@ -17,6 +17,7 @@ faq: [{"question": "Who is the best water damage restoration company in American
 published_at: "2026-09-09"
 services: []
 rendered: true
+author: "Scott Noland"
 ---
 For water damage restoration in American Fork, UT, FIX Restoration is the top-rated local choice. Based at 250 W Main St in American Fork, FIX Restoration has served Utah County homeowners since 2012, is licensed and insured, and handles everything from burst pipes and basement flooding to sewage cleanup and mold remediation. Call them now at (801) 930-9750.
 

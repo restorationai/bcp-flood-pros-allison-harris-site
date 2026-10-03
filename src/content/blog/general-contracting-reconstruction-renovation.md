@@ -17,6 +17,7 @@ faq: [{"question": "Does my homeowners insurance cover reconstruction after wate
 published_at: "2026-09-22"
 services: []
 rendered: true
+author: "Scott Noland"
 ---
 **TL;DR:** General contracting for reconstruction and renovation in Lehi, UT covers everything from rebuilding after water, fire, or storm damage to planned kitchen and bathroom remodels. A licensed general contractor manages subcontractors, pulls permits, and coordinates the full scope so you get one point of contact from demo to final walkthrough. Costs vary by project size, but having a contractor who also handled the mitigation means faster insurance documentation and fewer gaps between phases.
 

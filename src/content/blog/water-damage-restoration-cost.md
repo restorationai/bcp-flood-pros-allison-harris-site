@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in Utah?", "answ
 published_at: "2026-10-02"
 services: ["water-damage-restoration", "water-cleanup"]
 rendered: true
+author: "Scott Noland"
 ---
 **TL;DR:** Water damage restoration in Utah typically costs $1,200 to $3,500 for a single room with clean water, $3,500 to $9,000 for a finished basement, and $8,000 to $18,000+ for a whole main floor with Category 2 or 3 water. Price depends on water category, square footage, how long the water sat, and whether drywall or subfloor needs to come out. Most homeowners policies cover sudden water losses after the deductible, but gradual leaks are usually excluded.
 
