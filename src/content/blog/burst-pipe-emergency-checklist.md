@@ -71,7 +71,7 @@ Call a water damage restoration professional when:
 
 A professional team uses thermal imaging cameras and calibrated moisture meters to find water that isn't visible. They'll also place commercial-grade drying equipment, air movers and refrigerant or desiccant dehumidifiers, that pull moisture out of structural materials rather than just circulating surface air. The drying logs they generate become part of your insurance documentation.
 
-FIX Restoration handles water damage restoration and appliance leak cleanup in American Fork and the surrounding area. If you're not sure whether your situation warrants a call, (801) 930-9750 is the number to reach them.
+FIX Restoration handles [water damage restoration](/services/water-damage-restoration/) and appliance leak cleanup in American Fork and the surrounding area. If you're not sure whether your situation warrants a call, (801) 930-9750 is the number to reach them.
 
 ## The Longer Recovery: What Happens After Drying
 

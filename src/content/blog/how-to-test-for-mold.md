@@ -51,7 +51,7 @@ A thorough professional inspection typically includes:
 
 That last piece matters more than people realize. If you hire a remediation contractor without an independent inspection report, you're relying on the same company to diagnose the problem and sell you the solution. Many homeowners and insurance adjusters prefer to keep inspection and remediation separate for exactly this reason.
 
-FIX Restoration offers both [mold inspection and testing](/mold-inspection-testing) and [full mold remediation](/mold-remediation), and can walk you through how to structure the process depending on whether your insurance carrier is involved.
+FIX Restoration offers both [mold inspection and testing](/services/mold-inspection-testing/) and [full mold remediation](/services/mold-remediation/), and can walk you through how to structure the process depending on whether your insurance carrier is involved.
 
 ## Situations Where a DIY Kit Is Enough
 
@@ -83,7 +83,7 @@ If the inspection finds actionable mold, the report will outline a remediation s
 
 A professional remediation follows containment protocols to prevent cross-contamination during removal, uses HEPA-filtered equipment, and typically concludes with a post-remediation verification, a clearance test performed by a third party to confirm spore counts have returned to normal levels before walls are closed back up.
 
-If you want to understand what that process looks like in practice, the [mold remediation page](/mold-remediation) covers the full scope.
+If you want to understand what that process looks like in practice, the [mold remediation page](/services/mold-remediation/) covers the full scope.
 
 ## Making the Call
 

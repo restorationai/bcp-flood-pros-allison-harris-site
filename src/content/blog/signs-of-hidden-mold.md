@@ -88,7 +88,7 @@ A qualified remediation contractor will assess the full extent of the contaminat
 
 ## The Recovery Process, What To Expect
 
-Professional mold remediation is not a one-afternoon job. Depending on the extent of the contamination, the process typically involves an initial assessment, containment setup, controlled demolition of affected materials, HEPA vacuuming and antimicrobial treatment, structural drying if wet materials remain, and a final clearance test before reconstruction begins. The reconstruction phase, replacing drywall, insulation, flooring, or tile, is separate from remediation and happens after the space has passed clearance.
+Professional [mold remediation](/services/mold-remediation/) is not a one-afternoon job. Depending on the extent of the contamination, the process typically involves an initial assessment, containment setup, controlled demolition of affected materials, HEPA vacuuming and antimicrobial treatment, structural drying if wet materials remain, and a final clearance test before reconstruction begins. The reconstruction phase, replacing drywall, insulation, flooring, or tile, is separate from remediation and happens after the space has passed clearance.
 
 Plan for the affected area to be out of use for at least several days, sometimes longer for larger losses.
 

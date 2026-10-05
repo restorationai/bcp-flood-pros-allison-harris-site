@@ -75,7 +75,7 @@ In American Fork and throughout Utah County, the dry climate can create a false 
 
 ## What Recovery Looks Like After the First Day
 
-Professional water damage restoration typically follows a structured sequence: extraction, then drying, then assessment of what can be saved versus what needs to be removed, then reconstruction. The drying phase alone, done correctly with commercial air movers and dehumidifiers, usually takes several days, not several hours. Moisture readings are taken daily to confirm the structure is reaching acceptable levels before any rebuild begins.
+Professional [water damage restoration](/services/water-damage-restoration/) typically follows a structured sequence: extraction, then drying, then assessment of what can be saved versus what needs to be removed, then reconstruction. The drying phase alone, done correctly with commercial air movers and dehumidifiers, usually takes several days, not several hours. Moisture readings are taken daily to confirm the structure is reaching acceptable levels before any rebuild begins.
 
 If mold is already visible or the water sat long enough that it's a concern, remediation happens before reconstruction. Your restoration company should be able to walk you through what was found, what the readings show, and what the drying plan looks like, not just hand you a bill.
 

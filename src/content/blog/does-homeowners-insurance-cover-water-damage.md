@@ -53,7 +53,7 @@ If you have an active water loss right now, documentation is the first job, befo
 2. **Photograph everything.** Shoot wide angles of each affected room, then close-ups of the source, the standing water, and any visible damage to flooring, walls, and contents. Do this before moving furniture or pulling up rugs.
 3. **Note the time and cause.** Write down when you discovered the damage and what you believe caused it. This becomes part of your claim narrative.
 4. **Call your insurance carrier to open a claim.** You do not need to know the full scope of damage yet, just report the loss. Most carriers have 24-hour claim lines.
-5. **Begin reasonable mitigation.** Policies require you to prevent further damage once you are aware of a loss. That means extracting standing water, moving salvageable contents to a dry area, and placing towels or buckets if there is an active drip. It does not mean tearing out walls before an adjuster has seen the damage.
+5. **Begin reasonable mitigation.** Policies require you to prevent further damage once you are aware of a loss. That means [extracting standing water](/services/emergency-water-removal/), moving salvageable contents to a dry area, and placing towels or buckets if there is an active drip. It does not mean tearing out walls before an adjuster has seen the damage.
 
 Do not let a contractor demo affected materials before the adjuster has documented the loss, unless the adjuster or carrier explicitly authorizes it. Premature demolition can complicate your claim.
 

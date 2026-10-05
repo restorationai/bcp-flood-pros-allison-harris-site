@@ -86,4 +86,4 @@ Professional remediation is not just cleaning. It involves containment to preven
 
 ---
 
-If you are looking at a dark colony and genuinely unsure what you have, or if the affected area is large enough that DIY investigation is not appropriate, FIX Restoration handles mold remediation in American Fork and the surrounding Utah County area. A call to [(801) 930-9750](tel:8019309750) can help you figure out the right next step, whether that is a professional inspection or a full remediation.
+If you are looking at a dark colony and genuinely unsure what you have, or if the affected area is large enough that DIY investigation is not appropriate, FIX Restoration handles [mold remediation](/services/mold-remediation/) in American Fork and the surrounding Utah County area. A call to [(801) 930-9750](tel:8019309750) can help you figure out the right next step, whether that is a professional inspection or a full remediation.
