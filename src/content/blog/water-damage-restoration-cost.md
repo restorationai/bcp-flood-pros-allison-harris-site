@@ -70,7 +70,7 @@ A standard job runs through five phases, and understanding them helps explain wh
 1. **Inspection and moisture mapping.** A technician uses a moisture meter and sometimes a thermal camera to map exactly how far the water traveled, including behind walls and under flooring you can't see.
 2. **Water extraction.** Standing water comes out first with truck-mounted or portable extraction equipment, usually within the first few hours of arrival.
 3. **Controlled demolition.** Drywall, insulation, or flooring that can't be dried in place comes out now, typically the lower 12 to 24 inches of wall if the water line was contained.
-4. **Structural drying.** Air movers and dehumidifiers run for roughly 3 to 5 days, following the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) for drying documentation, with daily moisture readings to confirm progress.
+4. **Structural drying.** Air movers and dehumidifiers run for roughly 3 to 5 days, following the [IICRC S500 standard](https://iicrc.org/s500/) for drying documentation, with daily moisture readings to confirm progress.
 5. **Reconstruction.** Once materials test dry, new drywall, paint, baseboards, and flooring go back in, either by the restoration company directly or coordinated through a general contractor.
 
 That last step is where our [general contracting and reconstruction](/blog/general-contracting-reconstruction-renovation/) work picks up for clients who want one company handling drying through final paint, rather than managing two separate contracts.
