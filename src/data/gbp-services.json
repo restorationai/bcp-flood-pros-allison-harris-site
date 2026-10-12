@@ -1,1 +1,31 @@
-{}
+{
+  "emergency-board-up-tarping": [
+    "Emergency Tarping"
+  ],
+  "emergency-water-removal": [
+    "Standing Water Removal"
+  ],
+  "flood-damage-restoration": [
+    "Flood Damage"
+  ],
+  "odor-removal": [
+    "Smoke Odor Removal"
+  ],
+  "sewage-cleanup": [
+    "Basement Sewage Cleanup",
+    "Category 3 Water Cleanup"
+  ],
+  "smoke-damage-restoration": [
+    "Soot Removal"
+  ],
+  "storm-damage-restoration": [
+    "Hurricane Damage Restoration"
+  ],
+  "water-damage-restoration": [
+    "Water Mitigation",
+    "Wet Carpet Drying"
+  ],
+  "water-heater-flood-cleanup": [
+    "Flood Cleanup"
+  ]
+}
