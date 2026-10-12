@@ -64,9 +64,16 @@ export const brand = {
   sameAsUrls: ["https://maps.google.com/maps?cid=17807975968942681996"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
-  gbpRatingValue: "",
-  gbpReviewCount: "",
-  gbpReviews: [] as { author: string; rating: number; text: string; when: string }[],
+  gbpRatingValue: "4.9",
+  gbpReviewCount: "558",
+  gbpReviews: [
+    { author: "Janean", rating: 5, text: "Very responsive & willing to check whatever was a concern. Didn’t try to push anything unnecessary. Trustworthy.", when: "August 2026" },
+    { author: "A.J.", rating: 5, text: "Jared Decker and Team are exceptional! They’ve been in business a long time and for good reason. They do exactly what they say they will do! Honest, fair, and super involved in the community are part of their fabric. Can’t recommend them enough. If you need an awesome restoration company, they are…", when: "August 2026" },
+    { author: "Bonny", rating: 5, text: "FIX was incredibly helpful and professional when we had a leak in our home. I called and they were able to get someone out same day who was really kind and very knowledgeable. He explained in good detail what our issue was and told us about the options available without even plugging his business…", when: "August 2026" },
+    { author: "Kelly", rating: 5, text: "We had a foundation flood and used FIX for the second time in a few years. Floods suck, but FIX makes the cleanup and restoration seem so much more manageable and less frustrating. The team killed it. I worked closely with Braxton who led the majority of the work. He was very professional, helped…", when: "May 2026" },
+    { author: "Morgan", rating: 5, text: "Called Fix to come help with water leak bubble we saw in the ceiling. We have a rental property and they were able to arrive and talk with me over the phone while they diagnosed the problem. They were quick to come out and found the source of the leak and quickly got solutions. I love that they…", when: "March 2026" },
+    { author: "Becky", rating: 5, text: "They take great care of their customers! They are nice to work with! It’s awesome to work with a friendly, professional company that’s does such high quality work! I trust them!", when: "March 2026" },
+  ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in American Fork, UT.",
   ctaLabel: "24/7 Emergency Line",
   // Vertical trade-identity copy — resolved at scaffold time from
