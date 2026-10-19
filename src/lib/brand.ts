@@ -25,8 +25,8 @@ export const brand = {
   // keep the canonical NAP number above — humans dial the tracked line,
   // Google sees consistent NAP. Empty = feature off (default at scaffold;
   // filled by the call-tracking provisioning step).
-  trackingPhone: "(435) 602-8416",
-  trackingPhoneRaw: "+14356028416",
+  trackingPhone: "(385) 480-0281",
+  trackingPhoneRaw: "+13854800281",
   email: "scott.noland@gofloodpros.com",
   hours: "24/7",
   foundedYear: "2012",
