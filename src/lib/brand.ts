@@ -65,7 +65,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "558",
+  gbpReviewCount: "557",
   gbpReviews: [
     { author: "Janean", rating: 5, text: "Very responsive & willing to check whatever was a concern. Didn’t try to push anything unnecessary. Trustworthy.", when: "August 2026" },
     { author: "A.J.", rating: 5, text: "Jared Decker and Team are exceptional! They’ve been in business a long time and for good reason. They do exactly what they say they will do! Honest, fair, and super involved in the community are part of their fabric. Can’t recommend them enough. If you need an awesome restoration company, they are…", when: "August 2026" },
