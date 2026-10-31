@@ -9,8 +9,8 @@
     ]
   },
   "/images/services.webp": {
-    "width": 1376,
-    "height": 768,
+    "width": 1920,
+    "height": 1280,
     "variants": [
       480,
       768,
@@ -261,8 +261,8 @@
     ]
   },
   "/images/team.webp": {
-    "width": 1376,
-    "height": 768,
+    "width": 1951,
+    "height": 1301,
     "variants": [
       480,
       768,
