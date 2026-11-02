@@ -19,7 +19,7 @@ When water backs up through a floor drain, smoke settles into drywall, or mold s
 
 ## Services we handle
 
-**Water damage restoration**, Whether it's a burst pipe in January, a slow leak behind a cabinet that went unnoticed for weeks, or a flooded basement after a heavy storm, water moves fast and hides in places that look dry on the surface. We extract standing water, dry structural materials to measured moisture targets, and document everything for your insurance claim.
+**Water damage restoration**, Whether it's a burst pipe in January, a slow leak behind a cabinet that went unnoticed for weeks, or a flooded basement after a heavy storm, water moves fast and hides in places that look dry on the surface. We extract standing water, dry structural materials to measured moisture targets, and document everything for your insurance claim. See how our [Utah water damage restoration](/services/water-damage-restoration/) work runs, and when standing water has to come out now, our [water damage cleanup](/services/emergency-water-removal/) crew starts with extraction.
 
 **Fire and smoke damage restoration**, Smoke residue doesn't stay where the fire was. Soot travels through ductwork and settles into soft surfaces, and the acidic chemistry of smoke residue continues to etch and stain the longer it sits. We handle debris removal, odor neutralization, and surface cleaning before reconstruction begins.
 
