@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | FIX Restoration Restoration"
+title: "Service Areas | FIX Restoration"
 h1: "Areas We Serve"
 meta_description: "FIX Restoration provides restoration services across American Fork and the surrounding region. Find your city."
 primary_keyword: "fix restoration service areas"
