@@ -52,13 +52,13 @@ Forte Builders, LLC is a general contractor based in American Fork, UT, with a 4
 
 TJ Contractors is a general contractor based in Lehi, UT, with a 4.8-star Google rating across 84 reviews.
 
-| Company | Google Rating | Reviews | 24/7 Emergency | |
-|---|---|---|---|---|
-| FIX Restoration | 4.9 | 558 | Yes | Not listed |
-| KDK Construction, LLC | 4.6 | 33 | Not listed | Not listed |
-| Stewart Construction LLC | 5.0 | 33 | Not listed | Not listed |
-| Forte Builders, LLC | 4.6 | 56 | Not listed | Not listed |
-| TJ Contractors | 4.8 | 84 | Not listed | Not listed |
+| Company | Google Rating | Reviews | 24/7 Emergency |
+| --- | --- | --- | --- |
+| FIX Restoration | 4.9 | 557 | Yes |
+| KDK Construction, LLC | 4.6 | 33 | Not listed |
+| Stewart Construction LLC | 5.0 | 33 | Not listed |
+| Forte Builders, LLC | 4.6 | 56 | Not listed |
+| TJ Contractors | 4.8 | 84 | Not listed |
 
 ## What makes a general contractor the right fit for insurance repair and rebuild work?
 

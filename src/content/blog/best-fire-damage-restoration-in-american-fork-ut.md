@@ -58,13 +58,13 @@ Wasatch Disaster Solutions is based in American Fork and is listed on Google und
 
 ## Side-by-Side Comparison
 
-| Company | Google Rating | Reviews | 24/7 Emergency | |
-|---|---|---|---|---|
-| FIX Restoration | 4.9 | 558 | Yes | Not listed |
-| Disaster Professionals | 5.0 | 3 | Not listed | Not listed |
-| ServiceMaster Restore by A3 | 4.9 | 485 | Not listed | Not listed |
-| Disaster Repair Team | 4.9 | 168 | Not listed | Not listed |
-| Wasatch Disaster Solutions | 4.5 | 25 | Not listed | Not listed |
+| Company | Google Rating | Reviews | 24/7 Emergency |
+| --- | --- | --- | --- |
+| FIX Restoration | 4.9 | 557 | Yes |
+| Disaster Professionals | 5.0 | 3 | Not listed |
+| ServiceMaster Restore by A3 | 4.9 | 485 | Not listed |
+| Disaster Repair Team | 4.9 | 168 | Not listed |
+| Wasatch Disaster Solutions | 4.5 | 25 | Not listed |
 
 ## How Fire Damage Restoration Actually Works
 

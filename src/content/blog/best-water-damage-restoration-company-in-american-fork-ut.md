@@ -63,11 +63,11 @@ Disaster Professionals carries a perfect 5.0-star Google rating, though across 4
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| FIX Restoration | - | - | - | - |
-| FIX Flood & Water Damage Pros | 4.9 | 558 | - | - |
-| ServiceMaster Restore by A3 Disaster Services | 4.9 | 484 | - | - |
-| Disaster Repair Team | 4.9 | 166 | - | - |
-| Disaster Professionals | 5.0 | 4 | - | - |
+| FIX Restoration | 4.9 | 557 | Not listed | Not listed |
+| FIX Flood & Water Damage Pros | 4.9 | 558 | Not listed | Not listed |
+| ServiceMaster Restore by A3 Disaster Services | 4.9 | 484 | Not listed | Not listed |
+| Disaster Repair Team | 4.9 | 166 | Not listed | Not listed |
+| Disaster Professionals | 5.0 | 4 | Not listed | Not listed |
 
 Note: 24/7 availability and IICRC certification status for competitors were not confirmed at time of publication. Contact each company directly to verify current credentials and hours.
 
