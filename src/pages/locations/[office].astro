@@ -11,6 +11,7 @@
 import { getCollection } from "astro:content";
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { brand } from "~/lib/brand";
+import FactsLine from "~/components/ui/FactsLine.astro";
 
 export async function getStaticPaths() {
   const offices = await getCollection("offices");
@@ -104,6 +105,7 @@ const officeSchema = {
       <div class="max-w-3xl">
         <div class="eyebrow">{o.city}, {o.state} Office</div>
         <h1 class="mb-6">{o.display_name}</h1>
+        <FactsLine phone={o.phone_display} phoneRaw={o.phone} showRating={false} />
         <p class="text-lg text-dark/85 mb-8 leading-relaxed">{fullAddress}</p>
         <div class="flex flex-col sm:flex-row gap-4">
           <a href={`tel:${o.phone}`} class="btn-accent">📞 Call {o.phone_display}</a>
