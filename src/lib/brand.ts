@@ -69,7 +69,7 @@ export const brand = {
   certifications: [] as string[],
   trustBadges: ["Licensed & Insured", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
-  sameAsUrls: ["https://maps.google.com/maps?cid=17807975968942681996", "https://www.houzz.com/professionals/environmental-services-and-restoration/fix-restoration-pfvwus-pf~919903784"] as string[],
+  sameAsUrls: ["https://maps.google.com/maps?cid=17807975968942681996", "https://www.houzz.com/professionals/environmental-services-and-restoration/fix-restoration-pfvwus-pf~919903784", "https://homeguide.com/ut/lehi/water-damage-restoration/fix-restoration---24-7-emergency-plumbing--water---fire-damage-restoration-9-s1FcK2T"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
